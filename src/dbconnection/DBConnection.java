@@ -17,7 +17,7 @@ public class DBConnection {
             return DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/house_rent",
                 "root",
-                "Duque2903*"
+                "Pass1234!"
             );
         } catch (SQLException e) {
             System.out.println("Connection error: " + e.getMessage());
