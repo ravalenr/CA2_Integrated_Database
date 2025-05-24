@@ -1,0 +1,22 @@
+# NetBeans-specific
+nbproject/private/
+build/
+dist/
+
+# Compiled class files
+*.class
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS junk files
+.DS_Store
+
+# IntelliJ / IDEA
+*.iml
+.idea/
+
+# Output folders
+out/
+
